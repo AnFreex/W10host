@@ -1,0 +1,10 @@
+// Create by Romain HAUDRY//
+Merci d'avoir téléchargé mon utilitaire,
+Cette utilitaire automatise la création d'un reseau hébergé à 85%
+La dernière étape après la création si vous souhaitée diffuser une connection sur ce reseau
+Est d'aller dans le Centre réseaux et partages puis d'aller dans les propriétés du reseau qui fourni la connection,
+et dans l'onglets partage et de selectionner le reseau virtuel crée précedemment grâce à l'utilitaire.
+
+Ceci est mon premier programme partagé alors soyez indulgent ^^
+Mon code est open source vous pouvez m'envoyer votre version par mail (romain@triclame.com)
+Je le posterai si ce dernier est pertinent.
